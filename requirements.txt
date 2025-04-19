@@ -1,0 +1,9 @@
+chromadb
+langchain
+flask
+GitPython
+python-dotenv
+sentence-transformers
+langchain-community
+langchain-huggingface
+
